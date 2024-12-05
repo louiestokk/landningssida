@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# Copyrights, Content Copyright by Göteborg dödsbo tjänster AB
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
