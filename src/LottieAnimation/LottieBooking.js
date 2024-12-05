@@ -11,7 +11,7 @@ const LottieBooking = ({ lotti, width, height }) => {
   };
   return (
     <div>
-      <Lottie options={defaultOptions} height={height} width={width} />
+      <Lottie  options={defaultOptions} height={height} width={width} />
     </div>
   );
 };

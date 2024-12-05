@@ -48,7 +48,7 @@ const MapComponent = ({ avsCoords }) => {
                   key={ind}
                 >
                   {showInfoWindow === ind && (
-                    <InfoWindow>
+                    <InfoWindow style={{width:'200px'}}>
                       <div>
                         <p>{el.title}</p>
                         <p>{el.adess}</p>

@@ -16,14 +16,14 @@ import BookingModal from "../../components/BookingModal";
 
 const Home = ({ videoText }) => {
   const [modalOpen, setModalOpen] = useState(false);
-  const mainquery = "dödsbo eller hushåll";
+  const mainquery = "dödsbo eller bohag";
   const newsData = useSelector(getNewsData);
   const [content, setContent] = useState({
     metaTitle:
-      "Få hjälp med tömning, städning och uppköp av dödsbon och hushåll.",
+      "Få hjälp med tömning, städning och uppköp av dödsbon och bohag.",
     metaContent:
-      "Få professionell hjälp med tömning, städning och uppköp av dödsbon - Vi erbjuder allt från värdering till försäljning och bortforsling av hushållsartiklar.",
-    query: "dödsbo eller hushåll",
+      "Få professionell hjälp med tömning, städning och uppköp av dödsbon - Vi erbjuder allt från värdering till försäljning och bortforsling av bohagsartiklar.",
+    query: "dödsbo eller bohag",
     formTitle: "Tömma dödsbo",
     subTitle2:
       "Din auktoriserade dödsbo hanterare av dödsbo, bohag, uppköp, försäljning, tömning, bortforsling, sanering, flytt och städ",
@@ -31,7 +31,7 @@ const Home = ({ videoText }) => {
   });
   const customerData = useSelector(getCustomerData);
   const services =
-    "uppköp, bortforsling, sanering, flytt, städning och försäljning av dödsbon och hushåll.";
+    "uppköp, bortforsling, sanering, flytt, städning och försäljning av dödsbon och bohag.";
 
   const articleStructuredData = {
     "@context": "https://schema.org",
@@ -131,7 +131,7 @@ const Home = ({ videoText }) => {
           <h2>Hjälp {mainquery}?</h2>
           <h4>
             Vi erbjuder helt kostnadfritt besök/genomgång för att kunna hjälpa
-            dig som kund med ditt {mainquery}. Besöket/genomgången tar ca 45min
+            dig som kund med ditt {mainquery}. Besöket/genomgången tar ca 25 min
             och du som kund får en offert på plats om hur vi kan hjälpa dig med
             ditt
             <strong style={{ fontWeight: "700" }}> {mainquery}.</strong>
@@ -139,7 +139,7 @@ const Home = ({ videoText }) => {
           <button
             type="button"
             onClick={() => setModalOpen(!modalOpen)}
-            style={{ display: modalOpen ? "none" : "block" }}
+            style={{ display: modalOpen ? "none" : "block",background:'#a7c957' }}
           >
             BOKA
           </button>

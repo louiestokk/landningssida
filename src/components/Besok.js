@@ -6,7 +6,7 @@ const useStyles = makeStyles({
     display: "flex",
     flexDirection: "row",
     padding: "2rem",
-    background: "#e3c148",
+    background: "#a7c957",
     justifyContent: "space-evenly",
     color: "white",
     alignItems: "center",
@@ -75,7 +75,7 @@ const Besok = () => {
         </p>
       </section>
       <section style={{ margin: "1rem 0", borderRadius: "50%" }}>
-        <img src={image2} className="besok-img" loading="lazy" alt="house" />
+        <img src={'https://images.pexels.com/photos/8297031/pexels-photo-8297031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'} className="besok-img" loading="lazy" alt="house" />
       </section>
     </div>
   );

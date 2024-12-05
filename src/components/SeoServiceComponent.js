@@ -40,7 +40,7 @@ const useStyles = makeStyles({
     lineHeight: "24px"
   },
   atag: {
-    color: "#e3c148",
+    color: "#a7c957",
     fontSize: "0.9rem",
     fontWeight: "bold"
   }

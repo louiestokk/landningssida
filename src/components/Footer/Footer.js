@@ -12,14 +12,14 @@ const Footer = () => {
     <>
       <div className="footer" style={{ height: "300px" }}>
         <div>
-          <h3 style={{ marginBottom: "0.7rem" }}>Dödsbo Jouren</h3>
+          <h3 style={{ marginBottom: "0.7rem" }}>Trygga Dödsbon</h3>
           <a href={`tel:${customerData.phone}`} style={{ color: "white" }}>
             <AiTwotonePhone style={{ marginBottom: "0.2rem" }} />
             <p>{customerData.phone}</p>
           </a>
           <a
             href="https://www.facebook.com/profile.php?id=100091387485178"
-            title="Dödsbo Jouren Facebook"
+            title="Trygga Dödsbon Jouren Facebook"
             style={{
               display: "flex",
               justifyContent: "center",
@@ -36,8 +36,8 @@ const Footer = () => {
           <div className="office">
             <div>
               <h5>Göteborg</h5>
-              <p>Landsvägsgatan 6</p>
-              <p>413 04 Göteborg</p>
+              <p>Håkansgatan 3</p>
+              <p>418 75 Göteborg</p>
             </div>
             <div>
               <h5>Tjörn, Skärhamn</h5>
@@ -57,13 +57,13 @@ const Footer = () => {
               margin: "0.2rem 0"
             }}
           >
-            Orgnummer: 559298-0303{" "}
+            Orgnummer: 556469-5194{" "}
           </p>
         </section>
       </div>
       <div
         style={{
-          background: "#e3c148",
+          background: "#a7c957",
           color: "white",
           height: "300px",
           textAlign: "center",

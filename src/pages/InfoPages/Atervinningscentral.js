@@ -61,7 +61,7 @@ const Atervinningscentral = () => {
       </div>
       <div style={{ margin: "1rem 0.5rem", width: "100%" }}>
         <p style={{ fontSize: "0.9rem" }}>
-          Alla återvinningscentraler med kontaktuppgifter, öppetider, adress och
+          Här hittar du alla återvinningscentraler med kontaktuppgifter, öppetider, adress och
           navigation.
         </p>
         <div style={{ display: "flex", flexWrap: "wrap" }}>
@@ -75,7 +75,7 @@ const Atervinningscentral = () => {
                   marginRight: "0.5rem",
                   borderBottom: "1px solid black"
                 }}
-                title="Återvinningscentral Göteborg"
+                title={btn}
               >
                 {btn}
               </a>

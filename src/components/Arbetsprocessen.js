@@ -10,7 +10,7 @@ const useStyles = makeStyles({
     padding: "2rem",
     color: "white",
     // flexWrap: "wrap",
-    background: "#e3c148"
+    background: "#a7c957"
     // "@media screen and (max-width: 1000px)": {
     //   flexDirection: "column"
     // }
@@ -30,7 +30,7 @@ const useStyles = makeStyles({
 const Arbetsprocessen = () => {
   const classes = useStyles();
   return (
-    <div style={{ background: "#e3c148", color: "white" }}>
+    <div style={{ background: "#a7c957", color: "white" }}>
       <h2
         style={{
           color: "white",
@@ -38,7 +38,7 @@ const Arbetsprocessen = () => {
           paddingTop: "2rem"
         }}
       >
-        SÅ FUNGERAR DET
+        SÅHÄR GÅR DET TILL
       </h2>
       <div className={classes.root}>
         <section
@@ -72,7 +72,7 @@ const Arbetsprocessen = () => {
           </div>
           <div className="ddddd">
             <img
-              src="https://images.pexels.com/photos/4245922/pexels-photo-4245922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              src="https://images.pexels.com/photos/6779716/pexels-photo-6779716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               style={{
                 height: "200px",
                 width: "200px",
@@ -118,7 +118,7 @@ const Arbetsprocessen = () => {
           </div>
           <div className="ddddd">
             <img
-              src="https://images.pexels.com/photos/8770246/pexels-photo-8770246.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              src="https://images.pexels.com/photos/7464699/pexels-photo-7464699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               style={{
                 height: "200px",
                 width: "200px",
@@ -164,7 +164,7 @@ const Arbetsprocessen = () => {
           </div>
           <div className="ddddd">
             <img
-              src="https://cdn.pixabay.com/photo/2021/01/18/16/56/blinds-5928691_1280.jpg"
+              src="https://images.pexels.com/photos/4107105/pexels-photo-4107105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               style={{
                 height: "200px",
                 width: "200px",
@@ -207,7 +207,7 @@ const Arbetsprocessen = () => {
 
           <div className="ddddd">
             <img
-              src="https://cdn.pixabay.com/photo/2016/10/20/18/36/money-1756279_1280.jpg"
+              src="https://images.pexels.com/photos/4475527/pexels-photo-4475527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               style={{
                 height: "200px",
                 width: "200px",

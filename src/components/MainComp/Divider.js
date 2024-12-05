@@ -10,7 +10,7 @@ const Divider = () => {
           height: "300px",
           marginLeft: "0.5rem"
         }}
-        src="https://svenskcykling.se/wp-content/uploads/2021/01/slide-2.jpg"
+        src="https://images.pexels.com/photos/5945800/pexels-photo-5945800.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         alt="tömma lägenheter"
         title="tömma lägenheter"
       />

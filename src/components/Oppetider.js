@@ -7,7 +7,7 @@ const useStyles = makeStyles({
   divider: {
     width: "120px",
     height: "2px",
-    background: "#0369a1",
+    background: "#a7c957",
     margin: "1rem 0.2rem"
   },
   root: {

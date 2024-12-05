@@ -11,7 +11,7 @@ import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { getCustomerData } from "../../redux-toolkit/customer/customerSlice";
 import Links from "../externalLinks/Links";
-
+import { RiBarChartHorizontalLine } from "react-icons/ri";
 const Nav = () => {
   const dispatch = useDispatch();
   const [showNav, setShowNav] = useState(false);
@@ -31,17 +31,12 @@ const Nav = () => {
     <>
       <nav>
         <div className="nav-logo" onClick={() => (window.location.href = "/")}>
-          <h2 className="logo">Dödsbo</h2>
-          <h2 className="logo">Jouren</h2>
+          <h2 className="logo">Trygga</h2>
+          <h2 className="logo">Dödsbon</h2>
         </div>
      
-       <a href={`tel:${customerData.phone}`} style={{display:'flex',alignItems:'center', color:'#eabb12'}}>
-       <CallIcon style={{fontSize:'1.2rem'}}/>
-       <p style={{marginLeft:'0.3rem',fontSize:'0.8rem'}}>Ring</p>
-          </a>
-    
         <div className="navbar" onClick={() => setShowNav(!showNav)}>
-          <AiOutlineBars />
+          <RiBarChartHorizontalLine />
         </div>
        
         <div className="nav-links">

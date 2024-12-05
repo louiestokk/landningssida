@@ -87,7 +87,7 @@ const Recensioner = () => {
               >
                 {review.comment}
               </span>
-              <div style={{ color: "orange" }}>
+              <div style={{ color: "#a7c957" }}>
                 <Star />
                 <Star />
                 <Star />
