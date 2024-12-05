@@ -15,9 +15,10 @@ nav .nav-logo {
   cursor: pointer;
   background: #a7c957;
   color: white;
-  padding: 0.3rem;
+  padding: 0.35rem;
   box-shadow: rgba(245, 244, 244, 0.2) 0px 2px 8px 0px;
 }
+
 .nav-menu {
   position: fixed;
   right: 0;

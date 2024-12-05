@@ -65,6 +65,8 @@ li {
 }
 button {
   cursor: pointer;
+  background: #a7c957;
+  color: white;
 }
 .booking-lottie {
   position: relative;

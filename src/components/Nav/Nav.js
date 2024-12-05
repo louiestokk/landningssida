@@ -12,6 +12,7 @@ import { useSelector } from "react-redux";
 import { getCustomerData } from "../../redux-toolkit/customer/customerSlice";
 import Links from "../externalLinks/Links";
 import { RiBarChartHorizontalLine } from "react-icons/ri";
+
 const Nav = () => {
   const dispatch = useDispatch();
   const [showNav, setShowNav] = useState(false);
@@ -31,8 +32,8 @@ const Nav = () => {
     <>
       <nav>
         <div className="nav-logo" onClick={() => (window.location.href = "/")}>
-          <h2 className="logo">Trygga</h2>
-          <h2 className="logo">Dödsbon</h2>
+          <h2 style={{fontSize:'1rem'}} className="logo">Trygga</h2>
+          <h2 style={{fontSize:'1rem'}} className="logo">Dödsbon</h2>
         </div>
      
         <div className="navbar" onClick={() => setShowNav(!showNav)}>
