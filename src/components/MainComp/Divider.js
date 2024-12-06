@@ -1,8 +1,9 @@
 import React from "react";
-
+import HogerSection from "../HogerSection";
 const Divider = () => {
   return (
-    <div style={{ marginBottom: "3rem" }} className="main-comp-divider-comp">
+    <div>
+     <div style={{ marginBottom: "3rem" }} className="main-comp-divider-comp">
       <img
         style={{
           objectFit: "contain",
@@ -32,6 +33,9 @@ const Divider = () => {
         </p>
       </section>
     </div>
+            <HogerSection textsecond={'Vi erbjuder kostnadsfri och professionell värdering av dödsbon, bohag och enskilda föremål i Göteborg med omnejd. Genom vår tjänst kan vi hjälpa dig att få en noggrann uppskattning av hemmets lösöre, vilket är ett viktigt steg inför en eventuell tömning av dödsboet. Vår bedömning ger dig ett fast pris för tömningen, och vi kan även lämna ett specifikt erbjudande för uppköp av värdefulla föremål vi är intresserade av att köpa.'} servicesec={'Dödsbo'} titlesecond={'Värdering av dödsbo i Göteborg'} bannerText={'Utnyttja ditt RUT-avdrag 50% när du flyttar till ett boende'} service={'Dödsbo'} title={'Sälja dödsbo i Göteborg?'} text={'Vi erbjuder professionell hantering av dödsbon, inklusive tömning, städning och försäljning av föremål. Vi köper upp dödsbon i Göteborg och säljer vidare värdefulla objekt på ett effektivt sätt, samtidigt som vi ser till att tömma och städa dödsbot i Göteborg. Vårt mål är att underlätta processen för anhöriga genom att ta hand om allt från värdering och bortforsling av dödsbo i Göteborg till slutstädning, med omtanke och respekt.'} imgUrl={'https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'}/>
+    </div>
+   
   );
 };
 

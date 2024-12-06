@@ -22,9 +22,9 @@ const Tommahusgoteborg = ({ videoText }) => {
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
     metaTitle:
-      "Tömning av hus i Göteborg - Låt oss ta hand om hela processen åt dig med vår professionella och pålitliga service",
+      "Tömning av hus i Göteborg - Låt oss tömma dit hus snabbt och billigt!",
     metaContent:
-      "Behöver du hjälp med att tömma ett hus i Göteborg? Då är vi på Dödsbo Jouren det självklara valet. Vi tömmer hus i Göteborg med omnejd.",
+      "Behöver du hjälp med att tömma ett hus i Göteborg? Då är vi på Trygga Dödsbon det självklara valet. Vi tömmer hus i Göteborg med omnejd.",
     query: "Tömma hus i Göteborg",
     formTitle: "Tömma hus i Göteborg",
     subTitle2:
@@ -40,7 +40,7 @@ const Tommahusgoteborg = ({ videoText }) => {
     "@context": "https://schema.org",
     "@type": "Article",
     headline:
-      "Tömning av hus i Göteborg - Låt oss ta hand om hela processen åt dig med vår professionella och pålitliga service",
+      "Tömning av hus i Göteborg - Låt oss tömma dit hus snabbt och billigt!",
     description:
       "Behöver du hjälp med att tömma ett hus i Göteborg? Vår erfarna personal garanterar en prisvärd, smidig och säker process",
     image:

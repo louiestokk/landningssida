@@ -36,7 +36,7 @@ const Home = ({ videoText }) => {
   const articleStructuredData = {
     "@context": "https://schema.org",
     "@type": "RecyclingCenter",
-    name: "Dödsbo Jouren",
+    name: "Trygga Dödsbon",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Hisingsgatan 10",
