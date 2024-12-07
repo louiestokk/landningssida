@@ -42,9 +42,7 @@ const Links = () => {
   const classes = useStyles();
   return (
     <div className={classes.root}>
-      <p style={{ fontSize: "0.8rem", opacity: "0.75" }}>
-        Bra länkar och information kring dödsboet
-      </p>
+     <h2>Bra länkar</h2>
       {urls?.map((url, i) => (
         <div key={i} className={classes.container}>
           <a

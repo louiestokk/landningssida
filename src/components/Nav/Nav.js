@@ -84,6 +84,7 @@ const Nav = () => {
           >
             <AiOutlineCloseCircle />
           </button>
+          <h2>Sidor</h2>
           {navlinks.map((link, i) => {
             if (link.path) {
               return (
@@ -93,7 +94,8 @@ const Nav = () => {
                     border: "none",
                     color: "black",
                     margin: "0.3rem 0",
-                    fontSize: "1rem"
+                    fontSize: "1rem",
+                    textDecoration:'underline'
                   }}
                   key={link.id}
                 >
@@ -116,60 +118,11 @@ const Nav = () => {
               );
             }
           })}
-          {!isAuthenticated && (
-            <button
-              style={{
-                background: "#e3c148",
-                width: "6.5rem",
-                height: "1.8rem",
-                marginTop: "2rem",
-                borderRadius: "5px",
-                fontWeight: "bold"
-              }}
-              onClick={() => loginWithRedirect()}
-            >
-              Logga in
-            </button>
-          )}
-
-          {isAuthenticated && (
-            <button
-              style={{
-                background: "#e3c148",
-                width: "6.5rem",
-                height: "1.8rem",
-                marginTop: "2rem",
-                borderRadius: "5px",
-                fontWeight: "bold"
-              }}
-              onClick={() =>
-                logout({ logoutParams: { returnTo: window.location.origin } })
-              }
-            >
-              Logga ut
-            </button>
-          )}
-          {isAuthenticated && (
-            <Link
-              to="/dashboard-main"
-              style={{
-                background: "#e3c148",
-                width: "7.5rem",
-                height: "2rem",
-                marginTop: "0.5rem",
-                borderRadius: "5px",
-                fontWeight: "bold",
-                textAlign: "center",
-                color: "black",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center"
-              }}
-            >
-              Dashboard
-            </Link>
-          )}
-          <Links />
+          <article style={{height:'35px'}}></article>
+          <div className="nav-logo" onClick={() => (window.location.href = "/")}>
+          <h2 style={{fontSize:'1rem'}} className="logo">Trygga</h2>
+          <h2 style={{fontSize:'1rem'}} className="logo">Dödsbon</h2>
+        </div>
         </div>
       </nav>
     </>

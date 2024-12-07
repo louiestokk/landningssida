@@ -87,7 +87,7 @@ const Home = ({ videoText }) => {
         <meta property="og:description" content={content.metaContent} />
         <meta
           property="og:image"
-          content="https://images.pexels.com/photos/3651376/pexels-photo-3651376.jpeg?auto=compress&cs=tinysrgb&w=1300"
+          content="https://images.pexels.com/photos/18799930/pexels-photo-18799930/free-photo-of-stad-manniskor-trottoar-trad.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         />
         <link hrefLang="sv" rel="canonical" href="https://trygga-dodsbon.com" />
       </Helmet>

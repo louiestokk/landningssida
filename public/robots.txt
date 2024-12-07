@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 
-Sitemap: https://trygga-dodsbon.netlify.app/sitemap.xml
+Sitemap: https://trygga-dodsbon.com/sitemap.xml
