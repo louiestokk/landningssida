@@ -72,12 +72,12 @@ const Bortforslingdodsbogoteborg = ({ videoText }) => {
         />
         <meta
           property="og:url"
-          content="https://dodsbojouren.com/bortforsling-dodsbo-goteborg"
+          content="https://trygga-dodsbon.com/bortforsling-dodsbo-goteborg"
         />
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/bortforsling-dodsbo-goteborg"
+          href="https://trygga-dodsbon.com/bortforsling-dodsbo-goteborg"
         />
       </Helmet>
       <div className="Nav">

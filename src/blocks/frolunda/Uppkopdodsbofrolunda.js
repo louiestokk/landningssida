@@ -48,7 +48,7 @@ const Uppkopdodsbofrolunda = ({ videoText }) => {
         <meta name="description" content={content.metaContent} />
         <link
           rel="canonical"
-          href="https://dodsbojouren.com/uppkop-dodsbo-frolunda"
+          href="https://trygga-dodsbon.com/uppkop-dodsbo-frolunda"
         />
       </Helmet>
       <div className="Nav">

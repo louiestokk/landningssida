@@ -73,7 +73,7 @@ const Stadadodsbogoteborg = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/stada-dodsbo-goteborg"
+          href="https://trygga-dodsbon.com/stada-dodsbo-goteborg"
         />
       </Helmet>
       <div className="Nav">

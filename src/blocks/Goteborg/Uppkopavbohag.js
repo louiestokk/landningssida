@@ -67,7 +67,7 @@ const Uppkopavbohag = ({ videoText }) => {
         <meta name="description" content={content.metaContent} />
         <link
           rel="canonical"
-          href="https://dodsbojouren.com/uppkop-av-bohag"
+          href="https://trygga-dodsbon.com/uppkop-av-bohag"
           hrefLang="sv"
         />
       </Helmet>

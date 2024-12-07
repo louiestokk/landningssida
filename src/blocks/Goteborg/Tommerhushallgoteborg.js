@@ -48,7 +48,7 @@ const Tommerhushallgoteborg = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/tommer-hushall-goteborg"
+          href="https://trygga-dodsbon.com/tommer-hushall-goteborg"
         />
       </Helmet>
       <div className="Nav">

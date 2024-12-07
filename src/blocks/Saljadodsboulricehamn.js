@@ -51,7 +51,7 @@ const Saljadodsboulricehamn = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/salja-dodsbo-ulricehamn"
+          href="https://trygga-dodsbon.com/salja-dodsbo-ulricehamn"
         />
       </Helmet>
       <div className="Nav">

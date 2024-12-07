@@ -48,12 +48,12 @@ const Saljadodsbogoteborg = ({ videoText }) => {
         <meta property="og:description" content={content.metaContent} />
         <meta
           property="og:url"
-          content="https://dodsbojouren.com/salja-dodsbo-goteborg"
+          content="https://trygga-dodsbon.com/salja-dodsbo-goteborg"
         />
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/salja-dodsbo-goteborg"
+          href="https://trygga-dodsbon.com/salja-dodsbo-goteborg"
         />
       </Helmet>
       <div className="Nav">

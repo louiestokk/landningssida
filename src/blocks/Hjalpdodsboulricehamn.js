@@ -48,7 +48,7 @@ const Hjalpdodsboulricehamn = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/hjalp-dodsbo-ulricehamn"
+          href="https://trygga-dodsbon.com/hjalp-dodsbo-ulricehamn"
         />
       </Helmet>
       <div className="Nav">

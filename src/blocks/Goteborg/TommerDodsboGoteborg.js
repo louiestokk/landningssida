@@ -58,7 +58,7 @@ const TommerDodsboGoteborg = ({ videoText }) => {
         <meta name="description" content={content.metaContent} />
         <meta
           property="og:url"
-          content="https://dodsbojouren.com/tommer-dodsbo-goteborg"
+          content="https://trygga-dodsbon.com/tommer-dodsbo-goteborg"
         />
         <meta property="og:description" content={content.metaContent} />
         <meta
@@ -68,7 +68,7 @@ const TommerDodsboGoteborg = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/tommer-dodsbo-goteborg"
+          href="https://trygga-dodsbon.com/tommer-dodsbo-goteborg"
         />
       </Helmet>
       <div className="Nav">

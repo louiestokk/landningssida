@@ -69,7 +69,7 @@ const Tommahusgoteborg = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/tomma-hus/tomma-hus-goteborg"
+          href="https://trygga-dodsbon.com/tomma-hus/tomma-hus-goteborg"
         />
       </Helmet>
       <div className="Nav">

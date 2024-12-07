@@ -48,7 +48,7 @@ const Dodsbofirma = ({ videoText }) => {
         <meta name="description" content={content.metaContent} />
         <link
           rel="canonical"
-          href="https://dodsbojouren.com/dodsbofirma"
+          href="https://trygga-dodsbon.com/dodsbofirma"
           hrefLang="sv"
         />
       </Helmet>

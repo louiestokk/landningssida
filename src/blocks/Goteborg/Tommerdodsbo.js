@@ -67,7 +67,7 @@ const Tommerdodsbo = ({ videoText }) => {
         />
         <link
           rel="canonical"
-          href="https://dodsbojouren.com/tommer-dodsbo"
+          href="https://trygga-dodsbon.com/tommer-dodsbo"
           hrefLang="sv"
         />
       </Helmet>

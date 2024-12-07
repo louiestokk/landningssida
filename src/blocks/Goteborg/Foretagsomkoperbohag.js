@@ -51,7 +51,7 @@ const Foretagsomkoperbohag = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/foretag-som-koper-bohag"
+          href="https://trygga-dodsbon.com/foretag-som-koper-bohag"
         />
       </Helmet>
       <div className="Nav">

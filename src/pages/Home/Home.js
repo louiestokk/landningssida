@@ -50,7 +50,7 @@ const Home = ({ videoText }) => {
       latitude: "57.71659765082482",
       longitude: "11.94740491088092"
     },
-    url: "www.dodsbojouren.com",
+    url: "www.trygga-dodsbon.com",
     telephone: "+46317539060",
     openingHoursSpecification: [
       {
@@ -70,7 +70,7 @@ const Home = ({ videoText }) => {
     ],
     priceRange: "1000kr-20000kr",
     image: [
-      "https://images.pexels.com/photos/3651376/pexels-photo-3651376.jpeg?auto=compress&cs=tinysrgb&w=1300"
+      "https://images.pexels.com/photos/18799930/pexels-photo-18799930/free-photo-of-stad-manniskor-trottoar-trad.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     ]
   };
   return (
@@ -83,13 +83,13 @@ const Home = ({ videoText }) => {
         <meta charSet="utf-8" />
         <title>{content.metaTitle}</title>
         <meta name="description" content={content.metaContent} />
-        <meta property="og:url" content="https://dodsbojouren.com" />
+        <meta property="og:url" content="https://trygga-dodsbon" />
         <meta property="og:description" content={content.metaContent} />
         <meta
           property="og:image"
           content="https://images.pexels.com/photos/3651376/pexels-photo-3651376.jpeg?auto=compress&cs=tinysrgb&w=1300"
         />
-        <link hrefLang="sv" rel="canonical" href="https://dodsbojouren.com" />
+        <link hrefLang="sv" rel="canonical" href="https://trygga-dodsbon.com" />
       </Helmet>
       <div className="Nav">
         <Nav />

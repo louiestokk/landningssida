@@ -66,7 +66,7 @@ const Varderadodsboalingsas = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/vardera-dodsbo-alingsas"
+          href="https://trygga-dodsbon.com/vardera-dodsbo-alingsas"
         />
       </Helmet>
       <div className="Nav">
