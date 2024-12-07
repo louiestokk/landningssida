@@ -68,12 +68,12 @@ const Tommerdodsbonlerum = ({ videoText }) => {
         <meta property="og:description" content={content.metaContent} />
         <meta
           property="og:url"
-          content="https://dodsbojouren.com/tommer-dodsbo-lerum"
+          content="https://trygga-dodsbon.com/tommer-dodsbo-lerum"
         />
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/tommer-dodsbo-lerum"
+          href="https://trygga-dodsbon.com/tommer-dodsbo-lerum"
         />
       </Helmet>
       <div className="Nav">

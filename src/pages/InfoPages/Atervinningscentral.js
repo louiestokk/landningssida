@@ -53,7 +53,7 @@ const Atervinningscentral = () => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/atervinningscentral"
+          href="https://trygga-dodsbon.com/atervinningscentral"
         />
       </Helmet>
       <div className="Nav">

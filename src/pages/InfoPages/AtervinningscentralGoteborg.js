@@ -112,7 +112,7 @@ const AtervinningscentralGoteborg = () => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/atervinningscentral-goteborg"
+          href="https://trygga-dodsbon.com/atervinningscentral-goteborg"
         />
       </Helmet>
       <div className="Nav">

@@ -47,7 +47,7 @@ const Saljadodsbostenungssund = ({ videoText }) => {
         <meta name="description" content={content.metaContent} />
         <link
           rel="canonical"
-          href="https://dodsbojouren.com/salja-dodsbo-stenungsund"
+          href="https://trygga-dodsbon.com/salja-dodsbo-stenungsund"
         />
       </Helmet>
       <div className="Nav">

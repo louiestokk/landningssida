@@ -50,11 +50,11 @@ const SaljaDodsboKungalv = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/salja-dodsbo-kungalv"
+          href="https://trygga-dodsbon.com/salja-dodsbo-kungalv"
         />
         <meta
           property="og:url"
-          content="https://dodsbojouren.com/salja-dodsbo-kungalv"
+          content="https://trygga-dodsbon.com/salja-dodsbo-kungalv"
         />
       </Helmet>
       <div className="Nav">

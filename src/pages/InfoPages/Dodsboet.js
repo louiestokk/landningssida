@@ -41,7 +41,7 @@ const Dodsboet = () => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/dodsboet"
+          href="https://trygga-dodsbon.com/dodsboet"
         />
       </Helmet>
       <section className={classes.content}>

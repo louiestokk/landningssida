@@ -49,7 +49,7 @@ const Varderadodsbotrollhattan = ({ videoText }) => {
         <meta name="description" content={content.metaContent} />
         <link
           rel="canonical"
-          href="https://dodsbojouren.com/vardera-dodsbo-trollhattan"
+          href="https://trygga-dodsbon.com/vardera-dodsbo-trollhattan"
         />
       </Helmet>
       <div className="Nav">

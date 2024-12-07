@@ -47,7 +47,7 @@ const Bortforslingdodsbo = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/bortforsling-dodsbo"
+          href="https://trygga-dodsbon.com/bortforsling-dodsbo"
         />
       </Helmet>
       <div className="Nav">

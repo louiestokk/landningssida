@@ -48,7 +48,7 @@ const Rojerdodsbopartille = ({ videoText }) => {
         <meta name="description" content={content.metaContent} />
         <link
           rel="canonical"
-          href="https://dodsbojouren.com/rojer-dodsbo-partille"
+          href="https://trygga-dodsbon.com/rojer-dodsbo-partille"
         />
       </Helmet>
       <div className="Nav">

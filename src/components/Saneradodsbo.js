@@ -48,7 +48,7 @@ const Saneradodsbo = ({ videoText }) => {
         <link
           hrefLang="sv"
           rel="canonical"
-          href="https://dodsbojouren.com/sanera-dodsbo"
+          href="https://trygga-dodsbon.com/sanera-dodsbo"
         />
       </Helmet>
       <div className="Nav">
