@@ -38,6 +38,7 @@ const ForFragan = () => {
         (result) => {
           if (result.text === "OK") {
             console.log("email sent");
+            setActiveStep(activeStep + 1);
           }
         },
         (error) => {
@@ -306,7 +307,6 @@ const ForFragan = () => {
                       boxShadow: "rgba(100, 100, 111, 0.2) 0px 7px 29px 0px"
                     }}
                     onClick={() => {
-                      setActiveStep(activeStep + 1);
                       handleSubmit();
                     }}
                   >
