@@ -277,6 +277,50 @@ export const popularLinks = [
   {
     path: "tomma-hus-kungsbacka",
     title: "Tömma hus Kungsbacka"
+  },
+  {
+    title: "Jämförelsesajt återvinning",
+    path: "https://www.recyclerapp.com/atervinning"
+  },
+  {
+    title: "Jämförelsesajt - tömma dödsbon",
+    path: "https://www.recyclerapp.com/tomma-dodsbo"
+  },
+  {
+    title: "Jämförelsesajt - Dödsbo köpes",
+    path: "https://www.recyclerapp.com/tomma-dodsbo"
+  },
+  {
+    title: "Jämförelsesajt - Flyttfirma Göteborg",
+    path: "https://www.recyclerapp.com/flyttfirma-goteborg"
+  },
+  {
+    title: "Jämförelsesajt - Flyttfirma Stockholm",
+    path: "https://www.recyclerapp.com/flyttfirma-stockholm"
+  },
+  {
+    title: "Jämför & boka städfirmor",
+    path: "https://www.recyclerapp.com/pages/stadning/stadfirma"
+  },
+  {
+    title: "Bortforsling av möbler",
+    path: "https://www.recyclerapp.com/bortforsling-mobler"
+  },
+  {
+    title: "Hyra container jämför & boka",
+    path: "https://www.recyclerapp.com/hyra-container"
+  },
+  {
+    title: "Hyra sopkärl jämför & boka",
+    path: "https://www.recyclerapp.com/karl"
+  },
+  {
+    title: "Jämför flyttfirmor i Göteborg",
+    path: "https://www.recyclerapp.com/flyttfirma-goteborg"
+  },
+  {
+    title: "Jämför flyttfirmor i Stockholm",
+    path: "https://www.recyclerapp.com/flyttfirma-stockholm"
   }
 ];
 

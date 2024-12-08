@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { getLeads, setNewLead } from "../../redux-toolkit/leads/leadsSlice";
 import { collection, getDocs, addDoc } from "firebase/firestore";
-import { db } from "../../firebase";
+
 import { useSelector, useDispatch } from "react-redux";
 import { makeStyles } from "@material-ui/core";
 import { BsSearch } from "react-icons/bs";
@@ -62,55 +62,23 @@ const Bortforslingavdodsbogoteborg = () => {
     service: "",
     adID: Number(Math.floor(Math.random() * 1000000000))
   });
-  const fetchFirestoreData = async () => {
-    await getDocs(collection(db, "newLead")).then((querySnapshot) => {
-      const newData = querySnapshot.docs.map((doc) => ({
-        ...doc.data(),
-        id: doc.id
-      }));
-      dispatch(setNewLead(newData));
-    });
-  };
+
 
   const handleFiltering = (e) => {
-    if (e.target.innerText === "all") {
-      fetchFirestoreData();
-      setsearchQuery("");
-    } else {
-      const newItems = leadDataFireStore.filter(
-        (el) => el.status === e.target.innerText
-      );
-      dispatch(setNewLead(newItems));
-    }
+
   };
 
   const handleSearchQustomer = (e) => {
-    setsearchQuery(e.target.value);
-    dispatch(
-      setNewLead(
-        leadDataFireStore.filter((el) => el?.namn.includes(e.target.value))
-      )
-    );
+ 
   };
   const handleAddCustomerChange = (e) => {
-    setaddedCustomerData({
-      ...addedCustomerData,
-      [e.target.name]: e.target.value
-    });
+ 
   };
 
   const handleAddCustomerToFireBase = async (e) => {
-    e.preventDefault();
-    try {
-      const docRef = await addDoc(collection(db, "newLead"), addedCustomerData);
-      console.log("Document written with ID: ", docRef.id);
-    } catch (error) {
-      console.error("Error adding document: ", error);
-    }
+  
   };
-  useEffect(() => {
-    fetchFirestoreData();
-  }, []);
+
 
   return (
     <div>

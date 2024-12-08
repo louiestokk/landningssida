@@ -6,12 +6,11 @@ import { Stepper, Step, StepLabel, makeStyles } from "@material-ui/core";
 import { useDispatch, useSelector } from "react-redux";
 import { setBeskrivning } from "../redux-toolkit/snabbkollenSlice";
 import { AiOutlineCheckCircle } from "react-icons/ai";
-import { addDoc, collection } from "firebase/firestore";
-import { db } from "../firebase";
+
 const steps = ["Uppdraget", "Kontaktinfo"];
 const useStyles = makeStyles({
   root: {
-    "& .MuiStepIcon-active": { color: "rgb(227, 193, 72)" },
+    "& .MuiStepIcon-active": { color: "#a7c957" },
     "& .MuiStepIcon-completed": { color: "green" }
   }
 });
@@ -24,29 +23,14 @@ const ForFragan = () => {
   const today = new Date().getDate();
   const month = new Date().getMonth() + 1;
   const addLeadFirebase = async () => {
-    try {
-      const docRef = await addDoc(collection(db, "newLead"), {
-        namn: document.querySelector?.("form")?.childNodes[1]?.value,
-        email: document.querySelector?.("form")?.childNodes[5]?.value,
-        nummer: document.querySelector?.("form")?.childNodes[7]?.value,
-        ort: document.querySelector?.("form")?.childNodes[9]?.value,
-        tidsram: document.querySelector?.("form")?.childNodes[11]?.value,
-        beskrivning: data.beskrivning,
-        service: data.services[0],
-        date: `${year}-${month}-${today}`,
-        adID: Number(Math.floor(Math.random() * 10000000))
-      });
-      console.log("Document written with ID: ", docRef.id);
-    } catch (error) {
-      console.error("Error adding document: ", error);
-    }
+  
   };
   const form = useRef();
   const handleSubmit = () => {
     emailjs
       .sendForm(
-        "service_k835y1d",
-        "template_vky05mk",
+        "service_iqp8vhd",
+        "template_wcx9rma",
         form.current,
         process.env.REACT_APP_EMAILJS_2
       )
@@ -293,7 +277,7 @@ const ForFragan = () => {
                       height: "2.3rem",
                       borderRadius: "15px",
                       border: "none",
-                      background: "#FFD700",
+                      background: "#a7c957",
                       fontWeight: "bold",
                       color: "black",
                       letterSpacing: "0.5px",
@@ -315,7 +299,7 @@ const ForFragan = () => {
                       height: "2.3rem",
                       borderRadius: "15px",
                       border: "none",
-                      background: "#FFD700",
+                      background: "#a7c957",
                       fontWeight: "bold",
                       color: "black",
                       letterSpacing: "0.5px",
