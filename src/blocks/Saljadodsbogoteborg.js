@@ -20,7 +20,7 @@ const Saljadodsbogoteborg = ({ videoText }) => {
   const newsData = useSelector(getNewsData);
   const [content, setContent] = useState({
     metaTitle:
-      "Sälja dödsbo Göteborg? Få hjälp av proffs för en snabb och smidig process!",
+      "Sälja dödsbo Göteborg? Vi köper ditt dödsbo!",
     metaContent:
       "Vill du sälja ett dödsbo i Göteborg? Professionell hjälp och en smidig process för att du ska kunna sälja dödsboet snabbt och till rätt pris.",
     query: "Sälja dödsbo Göteborg",

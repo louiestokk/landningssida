@@ -4,7 +4,7 @@ import Divider from './Divider'
 const HogerSection = ({title,text,imgUrl,service,bannerText,titlesecond,servicesec,textsecond,imgUrlsec,idtwo}) => {
   return (
     <div style={{marginTop:'25px',width:'100%'}}>
-       <Divider text={'Vi köper, tömmer och städar dödsbon i Göteborg'}/>
+       <Divider text={'Vi värderar, köper, tömmer och städar dödsbon'}/>
     <div className="senaste-mainen" id={idtwo?idtwo:'stadning'}>
      <Box>
      <Box>

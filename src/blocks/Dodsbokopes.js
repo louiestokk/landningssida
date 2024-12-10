@@ -19,9 +19,9 @@ const Dodsbokopes = ({ videoText }) => {
   const mainquery = "dödsbo köpes";
   const newsData = useSelector(getNewsData);
   const [content, setContent] = useState({
-    metaTitle: "Dödsbo köpes - Få snabb och rättvis hantering | Trygga Dödsbon",
+    metaTitle: "Dödsbo köpes. Vi köper ditt dödsbo till det bästa priset",
     metaContent:
-      "Vi köper dödsbo och erbjuder enkel och smidig hantering. Vår erfarna personal ger dig ett rättvist och konkurrenskraftigt pris för dödsboet.",
+      "Dödsbo köpes. Vi köper dödsbo och erbjuder enkel och smidig hantering. Vår erfarna personal ger dig ett rättvist och konkurrenskraftigt pris för dödsboet.",
     query: "Dödsbo Köpes",
     formTitle: "Dödsbo Köpes",
     subTitle2:

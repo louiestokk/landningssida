@@ -22,7 +22,7 @@ const Saljadodsbotrollhattan = ({ videoText }) => {
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
     metaTitle:
-      "Sälj dödsbo i Trollhättan smidigt och tryggt - Vi tar hand om allt!",
+      "Sälja dödsbo i Trollhättan. Vi köper ditt dödsbo!",
     metaContent:
       "Behöver du hjälp att sälja ett dödsbo i Trollhättan? Kontakta oss idag för kostnadsfri värdering och professionell rådgivning",
     query: "Sälja dödsbo Trollhättan",

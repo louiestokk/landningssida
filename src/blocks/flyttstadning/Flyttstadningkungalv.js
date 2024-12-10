@@ -21,7 +21,7 @@ const Flyttstadningkungalv = ({ videoText }) => {
   const newsData = useSelector(getNewsData);
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
-    metaTitle: "Skinande ren och prisvärd flyttstädning i Kungälv.",
+    metaTitle: "Flyttstädning i Kungälv. Prisvärd flyttstädning i Kungälv.",
     metaContent:
       "Flyttstädning i Kungälv. Skinande ren och prisvärd flyttstädning i Kungälv.",
     query: "Flyttstädning i Kungälv",

@@ -20,9 +20,9 @@ const Flyttfirmagoteborg = ({ videoText }) => {
   const newsData = useSelector(getNewsData);
   const [content, setContent] = useState({
     metaTitle:
-      "Spara tid och stress med vår flyttfirma i Göteborg - Boka din flytt idag!",
+      "Flyttfirma Göteborg. Din auktoriserade flyttfirma i Göteborg.",
     metaContent:
-      "Behöver du hjälp med en flytt i Göteborg? Kontakta oss idag för att boka din flytt och få en kostnadsfri offert!",
+      "Flyttfirma Göteborg. Behöver du hjälp med en flytt i Göteborg? Kontakta oss idag för att boka din flytt och få en kostnadsfri offert!",
     query: "Flyttfirma Göteborg",
     formTitle: "Flyttfirma Göteborg",
     subTitle2:
@@ -86,7 +86,98 @@ const Flyttfirmagoteborg = ({ videoText }) => {
           text2={`Vi kan hjälpa dig med ${services}`}
         />
       </div>
+      <article style={{height:'50px'}}></article>
+      <div className={'nya-bosse-root'} id="flyttfirma-goteborg">
+  <article>
+    <h2 style={{ maxWidth: '500px', lineHeight: '52px', fontSize: '2.4rem' }} className={'nya-bosse-tva'}>
+      Flyttfirma i Göteborg – Vad kostar det och vad ska du tänka på?
+    </h2>
+    <p className={'bosse-helt-ny'}>
+      Letar du efter en pålitlig flyttfirma i Göteborg? Här hittar du information om priser, tjänster och tips för att välja rätt flyttfirma. Oavsett om du flyttar inom Göteborg eller till en ny stad hjälper vi dig att jämföra alternativen.
+    </p>
 
+    <div style={{ marginTop: '30px' }} id="flyttfirma-info">
+      <h2 className={'nya-bosse-tva'}>Vad kostar en flyttfirma i Göteborg?</h2>
+      <p className={'bosse-helt-ny'}>
+        Priset för en flyttfirma i Göteborg varierar beroende på tjänst och omfattning. Genomsnittliga timpriser är mellan <strong>500–1 200 SEK</strong>, och många företag erbjuder paketlösningar för större flyttar. Extra kostnader kan tillkomma för packhjälp, transport eller magasinering.
+      </p>
+
+      <h2 style={{ marginTop: '20px' }} className={'nya-bosse-tva'}>Vad ingår i en flyttjänst?</h2>
+      <ul className={'bosse-helt-ny'}>
+        <li>Lastning och lossning av flyttgods</li>
+        <li>Transport till den nya bostaden</li>
+        <li>Paket- och packhjälp (mot extra kostnad)</li>
+        <li>Magasinering för kort- eller långtid</li>
+        <li>Specialtransporter för tunga eller ömtåliga föremål</li>
+      </ul>
+
+      <h2 style={{ marginTop: '20px' }} className={'nya-bosse-tva'}>Tips för att spara pengar vid flytten</h2>
+      <ul className={'bosse-helt-ny'}>
+        <li>Boka flytten i god tid för att få bästa pris.</li>
+        <li>Packa och demontera möbler själv.</li>
+        <li>Jämför priser från flera flyttfirmor i Göteborg.</li>
+        <li>Välj en flyttfirma som erbjuder RUT-avdrag för flyttjänster.</li>
+      </ul>
+    </div>
+  </article>
+
+  <article>
+    <img
+      loading="lazy"
+      alt={'Flyttfirma Göteborg - Pris och Tjänster'}
+      src={
+        'https://images.pexels.com/photos/7464230/pexels-photo-7464230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      }
+      style={{ width: '100%', height: '340px', objectFit: 'contain' }}
+    />
+
+<ul style={{ marginTop: '20px' }}>
+  <h2 className={'nya-bosse-tva'}>Vanliga frågor om flyttfirmor i Göteborg</h2>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Hur bokar jag en flyttfirma?</strong>
+    Kontakta flyttfirman för att få en offert och boka i förväg, helst minst två veckor innan flyttdagen.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Vilka extra kostnader kan tillkomma?</strong>
+    Kostnader för packning, flyttlådor eller tunga lyft som pianon kan tillkomma.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Kan jag få RUT-avdrag?</strong>
+    Ja, flyttjänster är berättigade till RUT-avdrag, vilket ger dig 50 % rabatt på arbetskostnaden.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Hur lång tid tar en flytt?</strong>
+    För en normalstor lägenhet tar flytten mellan 3–6 timmar beroende på avstånd och mängd gods.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Hur säkerställer jag att mina saker är försäkrade?</strong>
+    Kontrollera att flyttfirman erbjuder ansvarsförsäkring och att din hemförsäkring täcker skador vid flytt.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Vad kostar en flyttfirma i Göteborg?</strong>
+    Priser varierar beroende på flyttstorlek och avstånd, men genomsnittet är 800–1200 SEK per timme för två personer och lastbil.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Kan flyttfirman hjälpa till med packning?</strong>
+    Ja, många flyttfirmor erbjuder packhjälp som en tilläggstjänst mot extra kostnad.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Är det billigare att flytta på vardagar?</strong>
+    Ja, priserna är ofta lägre på vardagar jämfört med helger och helgdagar.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Vad händer om flyttfirman skadar mina saker?</strong>
+    Om något skadas under flytten täcker flyttfirmans ansvarsförsäkring detta, men dokumentera skador direkt.
+  </li>
+  <li style={{ fontSize: '0.85rem', lineHeight: '22px' }} className={'bosse-helt-ny'}>
+    <strong className={'nya-bosse-tva'}>Behöver jag förbereda något inför flytten?</strong>
+    Ja, packa ordentligt, märk lådorna och planera logistik för flyttdagen för en smidigare process.
+  </li>
+</ul>
+
+  </article>
+</div>
+  <article style={{height:'50px'}}></article>
       <div className="Om">
         <AboutUs
           query={mainquery.toUpperCase()}

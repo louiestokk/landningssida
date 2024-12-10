@@ -22,7 +22,7 @@ const Tomningavdodsbo = ({ videoText }) => {
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
     metaTitle:
-      "Tömning av dödsbo - Vi tar hand om allt från sortering till avfallshantering och ger dig en smidig och stressfri process",
+      "Tömning av dödsbo - Vi tömmer dödsbon & bohag",
     metaContent:
       "Tömning av dödsbo  - Låt oss ta hand om hela processen åt dig med vår professionella och pålitliga service",
     query: "Tömning av dödsbo",

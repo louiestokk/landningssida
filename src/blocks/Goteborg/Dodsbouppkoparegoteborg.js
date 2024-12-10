@@ -22,7 +22,7 @@ const Dodsbouppkoparegoteborg = ({ videoText }) => {
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
     metaTitle:
-      "Vi är din pålitliga dödsbo uppköpare i Göteborg - Få en rättvis värdering och snabbt kontantköp",
+      "Vi är din pålitliga dödsbo uppköpare i Göteborg!",
     metaContent:
       "Vi är din pålitliga dödsbo uppköpare i Göteborg - Få en rättvis värdering och snabbt kontantköp av ditt dödsbo i Göteborg.",
     query: "Dödsbo uppköpare Göteborg",

@@ -22,7 +22,7 @@ const Flyttstadninggoteborg = ({ videoText }) => {
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
     metaTitle:
-      "Flyttstädning i Göteborg. Skinande ren och prisvärd flyttstädning i Göteborg.",
+      "Flyttstädning i Göteborg. Prisvärd flyttstädning i Göteborg.",
     metaContent:
       "Flyttstädning i Göteborg. Skinande ren och prisvärd flyttstädning i Göteborg.",
     query: "Flyttstädning i Göteborg",

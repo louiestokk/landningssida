@@ -21,9 +21,9 @@ const Flyttfirmakungalv = ({ videoText }) => {
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
     metaTitle:
-      "Spara tid och stress med vår flyttfirma i Kungälv - Boka din flytt idag!",
+      "Flyttfirma Kungälv. Din auktoriserade flyttfirma i Kungälv.",
     metaContent:
-      "Behöver du hjälp med en flytt i Kungälv? Kontakta oss idag för att boka din flytt och få en kostnadsfri offert!",
+      "Flyttfirma Kungälv. Behöver du hjälp med en flytt i Kungälv? Kontakta oss idag för att boka din flytt och få en kostnadsfri offert!",
     query: "Flyttfirma Kungälv",
     formTitle: "Flyttfirma Kungälv",
     subTitle2:

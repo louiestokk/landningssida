@@ -21,9 +21,9 @@ const Flyttfirmaboras = ({ videoText }) => {
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
     metaTitle:
-      "Spara tid och stress med vår flyttfirma i Borås - Boka din flytt idag!",
+      "Flyttfirma Borås. Din auktoriserade flyttfirma i Borås.",
     metaContent:
-      "Behöver du hjälp med en flytt i Borås? Kontakta oss idag för att boka din flytt och få en kostnadsfri offert!",
+      "Flyttfirma Borås. Behöver du hjälp med en flytt i Borås? Kontakta oss idag för att boka din flytt och få en kostnadsfri offert!",
     formTitle: "Flyttfirma Borås",
     subTitle2:
       "Flyttfirma Borås. Din auktoriserade flyttfirma i Borås. Vi utför flyttar av lägenheter, flyttar av hus och kontorsflytt i Borås.",

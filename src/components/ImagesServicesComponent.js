@@ -60,6 +60,16 @@ const images = [
     url: foretagkoperbohag,
     text: "Företag köper bohag",
     path: "/foretag-som-koper-bohag"
+  },
+  {
+    url: tomningavdodsbo,
+    text: "Flyttfirma Göteborg",
+    path: "/flyttfirma/flyttfirma-goteborg"
+  },
+  {
+    url: tomningavdodsbo,
+    text: "Flyttstäd Göteborg",
+    path: "/flyttstadning-i-goteborg"
   }
 ];
 const ImagesServicesComponent = () => {
