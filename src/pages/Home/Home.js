@@ -144,7 +144,7 @@ const Home = ({ videoText }) => {
             BOKA
           </button>
         </div>
-        <LottieBooking lotti={booking} height={400} width={400} />
+        <LottieBooking lotti={booking} height={320} width={320} />
         {modalOpen && (
           <BookingModal modalOpen={modalOpen} setModalOpen={setModalOpen} />
         )}
