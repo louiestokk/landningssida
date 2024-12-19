@@ -171,9 +171,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             kan vara en svår uppgift som kräver mycket tid och arbete. Det kan
             vara en känslomässigt påfrestande tid för de efterlevande, och det
             kan vara svårt att veta var man ska börja. Men med rätt hjälp och
-            stöd kan det bli enklare. Vi på Trygga Dödsbon specialiserar oss på
-            hantering av dödsbo och kan hjälpa dig att ta hand om alla aspekter
-            av processen.
+            stöd kan det bli enklare. Hos Trygga Dödsbon är vi experter på hantering av dödsbo och hjälper dig med alla delar av processen, från värdering till tömning och städning.
           </p>
         </div>
         <div
@@ -220,11 +218,8 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             >
               tömning av fastigheter
             </a>{" "}
-            , uppköp av egendom, städning och sanering. Vi förstår att varje
-            dödsbo är unikt och att det kan finnas olika behov beroende på
-            situationen. Därför är våra tjänster flexibla och anpassningsbara
-            för att möta dina specifika behov. Vi arbetar alltid med respekt och
-            omsorg för att underlätta denna svåra tid för de efterlevande.
+            , uppköp av egendom, städning och sanering.
+            Varje dödsbo är unikt, och vi anpassar våra tjänster efter dina specifika behov och situation. Med respekt och omsorg hjälper vi dig att underlätta denna svåra tid och ser till att processen för ditt dödsbo blir så smidig som möjligt för de efterlevande.
           </p>
         </div>
         <div
@@ -248,15 +243,15 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
           >
             {/* {text1} */}
             Vår erfarna personal är välutbildad och kunnig inom alla aspekter av
-            hantering av dödsbo. Vi har de verktyg och resurser som krävs för
-            att göra processen så smidig och effektiv som möjligt. Oavsett om du
+            hantering av dödsbo. Vi har verktyg och resurser för
+            att göra processen smidig för ditt dödsbo. Oavsett om du
             behöver hjälp med{" "}
             <a
               href="/vardera-dodsbo"
               title="värdera dödsbo"
               style={{ color: "inherit" }}
             >
-              värdering av egendom
+              värdering av dödsbo
             </a>{" "}
             ,{" "}
             <a
@@ -274,9 +269,8 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             >
               städning av fastigheter
             </a>{" "}
-            , så kan vi hjälpa till. Vi erbjuder konkurrenskraftiga priser och
-            högkvalitativ service för att se till att varje kund får den hjälp
-            de behöver.
+            , så kan vi hjälpa till. Vi erbjuder konkurrenskraftiga priser för dödsbon och detta för att se till att varje kund får den hjälp
+            de behöver med sitt dödsbo.
           </p>
         </div>
       </section>

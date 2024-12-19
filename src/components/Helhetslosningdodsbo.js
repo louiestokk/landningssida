@@ -61,13 +61,9 @@ const Helhetslosningdodsbo = () => {
       <section className={classes.sec1}>
         <h2 className={classes.title}>Helhetslösning för dödsbo</h2>
         <p className={classes.paragraph}>
-          Vår helhetslösning erbjuder professionell service för rensning,
-          försäljning och avveckling av abonnemang samt juridisk rådgivning. Vi
-          kan hjälpa till med allt som behövs för att göra processen smidig och
-          enkel för dig. Kontakta oss idag för en kostnadsfri konsultation
-          angående dödsbo och dödsbo tömning. Ett dödsbo är mer krävande än vad
-          man tror. Idag ställs det ju många krav på sortering och avfall av
-          dödsbon. Vi på Trygga Dödsbon tar hela ansvaret från att sortera{" "}
+        Vi erbjuder en komplett helhetslösning för hantering av dödsbo, inklusive professionell service för rensning, försäljning, avveckling av abonnemang och juridisk rådgivning. Vår tjänst gör hela processen smidig och enkel, så att du kan fokusera på det som är viktigt. Kontakta oss idag för en kostnadsfri konsultation angående dödsbo, dödsbo tömning och relaterade tjänster.
+
+Vi förstår att ett dödsbo kan vara mer krävande än vad man först tror. Det finns många krav på sortering, avfallshantering och tömning av dödsbo, vilket gör att det är viktigt att ha rätt hjälp. Vi på Trygga Dödsbon tar hela ansvaret från att sortera{" "}
           <a href="/dodsboet" style={{ color: "white" }} title="dödsboet">
             dödsboet
           </a>
@@ -80,8 +76,8 @@ const Helhetslosningdodsbo = () => {
             tömning av dödsboet
           </a>{" "}
           och sedan städning av dödsboet. Vi gör även luktsaneringar av dödsbo
-          eller röksanering av dödsbo. Behöver du hjälp med att tömma ett
-          dödsbo?
+          eller röksanering av dödsbo.
+          Behöver du hjälp med att tömma ett dödsbo? Vi är här för att underlätta för dig och göra hanteringen av ditt dödsbo enkel och smidig.
         </p>
       </section>
     </div>

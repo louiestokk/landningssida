@@ -17,7 +17,7 @@ const Divider = () => {
       />
       <section>
         <h2 style={{ marginBottom: "0.5rem", marginLeft: "0.5rem" }}>
-          Få hjälp av proffsen!
+        Låt proffsen guida dig!
         </h2>
         <p
           style={{
@@ -28,8 +28,7 @@ const Divider = () => {
             marginRight: "0.5rem"
           }}
         >
-          Vårt team är välutbildat och erfaret, och vi arbetar snabbt och
-          effektivt för att underlätta för våra kunder under en tuff tid.
+      Vårt professionella och rutinerade team jobbar snabbt och med precision för att underlätta för våra kunder i svåra tider. Vi köper, tömmer och städar dödsbon i Göteborg (Västra Götaland).
         </p>
       </section>
     </div>

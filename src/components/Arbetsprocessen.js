@@ -55,10 +55,7 @@ const Arbetsprocessen = () => {
               <p>1</p>
             </div>
             <p style={{ width: "300px", marginTop: "0.5rem" }}>
-              <strong style={{ color: "white" }}> VÄRDERING:</strong> Vi
-              erbjuder en kostnadsfri värdering av hemmets föremål, dödsboet
-              eller bohaget. Detta är för att kunna ge er ett fast pris för
-              själva{" "}
+              <strong style={{ color: "white" }}> VÄRDERING:</strong> Vi erbjuder kostnadsfri värdering av föremål i dödsbo, bohag och hem. Genom vår noggranna värdering kan vi ge er ett fast och rättvist pris för hanteringen av dödsboet.{" "}
               <a
                 href="/tomma-dodsbo"
                 style={{ color: "white" }}
@@ -110,10 +107,7 @@ const Arbetsprocessen = () => {
               <a href="/dodsboet" style={{ color: "white" }} title="dödsboet">
                 dödsboet
               </a>{" "}
-              eller bohaget. När vi sorterat klart börjar vi forsla bort det som
-              vi kan skänka eller det som skall gå till tippen. Efter detta tar
-              vi då det lösöre vi köpt upp som vi kör till vår butik eller
-              lager.
+              eller bohaget. Vi skänker det som kan återanvändas och forslar bort det som ska till tippen. Därefter tar vi hand om lösöret vi köpt upp och transporterar det till vår butik eller lager.
             </p>
           </div>
           <div className="ddddd">
@@ -159,7 +153,7 @@ const Arbetsprocessen = () => {
                 städat
               </a>{" "}
               så erbjuder vi även den tjänsten för alla våra dödsbon och bohag.
-              Vi gör även saneringar som luktsaneringar av rökande eller annat.
+              Vi erbjuder professionell städning för alla typer av dödsbon och bohag, inklusive specialtjänster som luktsanering vid röklukt eller andra besvär.
             </p>
           </div>
           <div className="ddddd">
@@ -202,6 +196,7 @@ const Arbetsprocessen = () => {
               </a>
               . Eller så kan det även bli att vi drar av summan mot det ni skall
               betala oss.
+              
             </p>
           </div>
 
