@@ -37,9 +37,9 @@ const Dodsbokopes = ({ videoText }) => {
     "@context": "https://schema.org",
     "@type": "Article",
     headline:
-      "Dödsbo Köpes. Trygga Dödsbon vi hjälper dig med städning, flytt, tömning, bortforsling, värdering och uppköp av dödsbo och hushåll samt återvinning och avfallshantering",
+      "Dödsbo Köpes. Svenska Dödsbo vi hjälper dig med städning, flytt, tömning, bortforsling, värdering och uppköp av dödsbo och hushåll samt återvinning och avfallshantering",
     description:
-      "Dödsbo köpes. Behöver du hjälp med flytt, städning, tömning eller uppköp av dödsbo? Välkommen till Trygga Dödsbon  vi erbjuder allt från bortforsling och värdering till uppköp av dödsbo och hushåll. Vi tar hand om både små och stora projekt, från kontor och lägenheter till fastigheter och hus. Kontakta oss idag för en smidig och stressfri lösning. Vi hjälper även till med återvinning och avfallshantering",
+      "Dödsbo köpes. Behöver du hjälp med flytt, städning, tömning eller uppköp av dödsbo? Välkommen till Svenska Dödsbo vi erbjuder allt från bortforsling och värdering till uppköp av dödsbo och hushåll. Vi tar hand om både små och stora projekt, från kontor och lägenheter till fastigheter och hus. Kontakta oss idag för en smidig och stressfri lösning. Vi hjälper även till med återvinning och avfallshantering",
     image:
       "https://xn--ddsbo-jua.com/wp-content/uploads/2019/07/family-room-382150_640.jpg",
     datePublished: new Date("2023-04-04T09:25:01.340Z").toISOString(),

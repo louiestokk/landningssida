@@ -6,7 +6,7 @@ const useStyles = makeStyles({
     display: "flex",
     flexDirection: "row",
     padding: "2rem",
-    background: "#a7c957",
+    background: "#406893",
     justifyContent: "space-evenly",
     color: "white",
     alignItems: "center",
@@ -35,7 +35,7 @@ const Besok = () => {
           style={{
             margin: "0.7rem auto",
             width: "45%",
-            background: "#0369a1",
+            background: "white",
             height: "1px"
           }}
         ></div>
@@ -49,7 +49,7 @@ const Besok = () => {
             värdering av dödsbo
           </a>{" "}
           och bohag inom Göteborg, Kungälv, Ale, Stenungsund och Tjörn. Vi har
-          säljkanalerna och egen butiker. Trygga Dödsbon är ett företag som
+          säljkanalerna och egen butiker. Svenska Dödsbo är ett företag som
           tänker miljösmart och på återanvändning. Vi skänker till
           behandlingshem, olika typer av boenden, kyrkor,{" "}
           <strong>hjälporganisationer</strong> och till behövande. Vi har valt

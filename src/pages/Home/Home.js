@@ -36,7 +36,7 @@ const Home = ({ videoText }) => {
   const articleStructuredData = {
     "@context": "https://schema.org",
     "@type": "RecyclingCenter",
-    name: "Trygga Dödsbon",
+    name: "Svenska Dödsbo",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Hisingsgatan 10",
@@ -139,7 +139,7 @@ const Home = ({ videoText }) => {
           <button
             type="button"
             onClick={() => setModalOpen(!modalOpen)}
-            style={{ display: modalOpen ? "none" : "block",background:'#a7c957' }}
+            style={{ display: modalOpen ? "none" : "block",background:'#406893' }}
           >
             BOKA
           </button>

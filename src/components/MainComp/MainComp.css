@@ -7,7 +7,7 @@
   align-items: center;
   text-align: center;
   position: relative;
-  background-color: #a7c957;
+  background-color: #406893;
   color: white;
   position: relative;
 }
@@ -118,7 +118,7 @@ input:focus {
       rgba(0.3, 0.3, 0.3, 0.3),
       rgba(0.3, 0.3, 0.3, 0.3)
     ),
-    url("https://images.pexels.com/photos/18799930/pexels-photo-18799930/free-photo-of-stad-manniskor-trottoar-trad.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
+    url("https://images.pexels.com/photos/26381779/pexels-photo-26381779/free-photo-of-stad-gator-byggnader-resa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
       no-repeat;
 
   object-fit: contain;

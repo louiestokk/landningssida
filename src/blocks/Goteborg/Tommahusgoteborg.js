@@ -24,7 +24,7 @@ const Tommahusgoteborg = ({ videoText }) => {
     metaTitle:
       "Tömning av hus i Göteborg - Låt oss tömma dit hus snabbt och billigt!",
     metaContent:
-      "Behöver du hjälp med att tömma ett hus i Göteborg? Då är vi på Trygga Dödsbon det självklara valet. Vi tömmer hus i Göteborg med omnejd.",
+      "Behöver du hjälp med att tömma ett hus i Göteborg? Då är vi på Svenska Dödsbo det självklara valet. Vi tömmer hus i Göteborg med omnejd.",
     query: "Tömma hus i Göteborg",
     formTitle: "Tömma hus i Göteborg",
     subTitle2:

@@ -1,9 +1,9 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-  email: "info@trygga-dodsbon.com",
+  email: "info@svenska-dodsbo.com",
   phone: "0317503010",
-  business: "Trygga Dödsbon",
+  business: "Svenska Dödsbo",
   adress: "Håkansgatan 3",
   zip: "418 75",
   city: "Göteborg",

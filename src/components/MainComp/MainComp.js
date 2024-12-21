@@ -27,7 +27,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             maxWidth: "330px"
           }}
         >
-          Det smarta valet för dig, planeten och din plånbok!
+          Det bästa valet för planeten och din plånbok!
         </h4>
 
         <div
@@ -75,9 +75,9 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             style={{
               position: "absolute",
               right: "2%",
-              background: "#a7c957",
+              background: "#0369a1",
               border: "none",
-              color: "black",
+              color: "white",
               height: "2.2rem",
               borderRadius: "3px",
               top: "30%",
@@ -143,7 +143,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
         <div
           style={{
             margin: "1rem 0.5rem",
-            background: "#a7c957",
+            background: "#406893",
             height: "300px",
             justifyContent: "center",
             display: "flex",
@@ -171,7 +171,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             kan vara en svår uppgift som kräver mycket tid och arbete. Det kan
             vara en känslomässigt påfrestande tid för de efterlevande, och det
             kan vara svårt att veta var man ska börja. Men med rätt hjälp och
-            stöd kan det bli enklare. Hos Trygga Dödsbon är vi experter på hantering av dödsbo och hjälper dig med alla delar av processen, från värdering till tömning och städning.
+            stöd kan det bli enklare. Hos Svenska Dödsbo är vi experter på hantering av dödsbo och hjälper dig med alla delar av processen, från värdering till tömning och städning.
           </p>
         </div>
         <div
@@ -225,7 +225,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
         <div
           style={{
             margin: "1.2rem 0.5rem",
-            background: "#a7c957",
+            background: "#406893",
             color: "white",
             height: "300px",
             justifyContent: "center",

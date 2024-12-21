@@ -32,7 +32,7 @@ const Nav = () => {
     <>
       <nav>
         <div className="nav-logo" onClick={() => (window.location.href = "/")}>
-          <h2 style={{fontSize:'1rem'}} className="logo">Trygga</h2>
+          <h2 style={{fontSize:'1rem'}} className="logo">Svenska</h2>
           <h2 style={{fontSize:'1rem'}} className="logo">Dödsbon</h2>
         </div>
      
