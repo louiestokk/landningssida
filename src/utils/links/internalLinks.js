@@ -1,281 +1,297 @@
 export const internallinks = [
   {
-    path: "tomma-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-goteborg",
     title: "Tömma dödsbo Göteborg"
   },
   {
-    path: "koper-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/koper-dodsbo-goteborg",
     title: "Köper dödsbo Göteborg"
   },
   {
-    path: "uppkop-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-goteborg",
     title: "Uppköp dödsbo Göteborg"
   },
   {
-    path: "salja-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-goteborg",
     title: "Sälja dödsbo Göteborg"
   },
   {
-    path: "vardera-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-goteborg",
     title: "Värdera dödsbo Göteborg"
   },
   {
-    path: "hjalp-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/hjalp-dodsbo-goteborg",
     title: "Hjälp dödsbo Göteborg"
   },
   {
-    path: "bortforsling-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-goteborg",
     title: "Bortforsling dödsbo Göteborg"
   },
   {
-    path: "dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/dodsbo-goteborg",
     title: "Dödsbo Göteborg"
   },
   {
-    path: "vardera-dodsbo-hisingen",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-hisingen",
     title: "Värdera dödsbo Hisingen"
   },
   {
-    path: "tomma-dodsbo-hisingen",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-hisingen",
     title: "Tömma dödsbo Hisingen"
   },
   {
-    path: "salja-dodsbo-hisingen",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-hisingen",
     title: "Sälja dödsbo Hisingen"
   },
   {
-    path: "uppkop-dodsbo-hisingen",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-hisingen",
     title: "Uppköp dödsbo Hisingen"
   },
   {
-    path: "bortforsling-dodsbo-hisingen",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-hisingen",
     title: "Bortforsling dödsbo Hisingen"
   },
   {
-    path: "uppkop-av-bohag",
+    path: "https://trygga-dodsbon.com/uppkop-av-bohag",
     title: "Uppköp av bohag"
   },
   {
-    path: "uppkop-av-dodsbo",
+    path: "https://trygga-dodsbon.com/uppkop-av-dodsbo",
     title: "Uppköp av dödsbo"
   },
   {
-    path: "roja-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/roja-dodsbo-goteborg",
     title: "Röja dödsbo Göteborg"
   },
   {
-    path: "stada-dodsbo-goteborg",
+    path: "https://trygga-dodsbon.com/stada-dodsbo-goteborg",
     title: "Städa dödsbo Göteborg"
   },
   {
-    path: "vardera-dodsbo-kungsbacka",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-kungsbacka",
     title: "Värdera dödsbo Kungsbacka"
   },
   {
-    path: "bortforsling-dodsbo-partille",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-partille",
     title: "Bortforsling dödsbo Partille"
   },
   {
-    path: "salja-dodsbo-partille",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-partille",
     title: "Sälja dödsbo Partille"
   },
   {
-    path: "kopa-dodsbo-partille",
+    path: "https://trygga-dodsbon.com/kopa-dodsbo-partille",
     title: "Köpa dödsbo Partille"
   },
   {
-    path: "rojer-dodsbo-partille",
+    path: "https://trygga-dodsbon.com/rojer-dodsbo-partille",
     title: "Röjer dödsbo Partille"
   },
   {
-    path: "stada-dodsbo-partille",
+    path: "https://trygga-dodsbon.com/stada-dodsbo-partille",
     title: "Städa dödsbo Partille"
   },
   {
-    path: "uppkop-dodsbo-partille",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-partille",
     title: "Uppköp dödsbo Partille"
   },
   {
-    path: "flyttstadning-trollhattan",
+    path: "https://trygga-dodsbon.com/flyttstadning-trollhattan",
     title: "Flyttstädning Trollhättan"
   },
   {
-    path: "dodsbo-trollhattan",
+    path: "https://trygga-dodsbon.com/dodsbo-trollhattan",
     title: "Dödsbo Trollhättan"
   },
   {
-    path: "dodsbo-kopes-trollhattan",
+    path: "https://trygga-dodsbon.com/dodsbo-kopes-trollhattan",
     title: "Dödsbo köpes Trollhättan"
   },
   {
-    path: "bortforsling-dodsbo-trollhattan",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-trollhattan",
     title: "Bortforsling dödsbo Trollhättan"
   },
   {
-    path: "vardera-dodsbo-trollhattan",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-trollhattan",
     title: "Värdera dödsbo Trollhättan"
   },
   {
-    path: "salja-dodsbo-trollhattan",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-trollhattan",
     title: "Sälja dödsbo Trollhättan"
   },
   {
-    path: "tomma-dodsbo-trollhattan",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-trollhattan",
     title: "Tömma dödsbo Trollhättan"
   },
   {
-    path: "stadning-av-dodsbo-trollhattan",
+    path: "https://trygga-dodsbon.com/stadning-av-dodsbo-trollhattan",
     title: "Städning av dödsbo Trollhättan"
   },
   {
-    path: "flyttstadning-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/flyttstadning-dodsbo-boras",
     title: "Flyttstädning dödsbo Borås"
   },
   {
-    path: "/stadar-dodsbo-alingsas",
+    path: "https://trygga-dodsbon.com/stadar-dodsbo-alingsas",
     title: "Städar dödsbo Alingsås"
   },
   {
-    path: "/koper-dodsbo-alingsas",
+    path: "https://trygga-dodsbon.com/koper-dodsbo-alingsas",
     title: "Köper dödsbo Alingsås"
   },
   {
-    path: "/tomma-dodsbo-alingsas",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-alingsas",
     title: "Tömma dödsbo Alingsås"
   },
   {
-    path: "/vardera-dodsbo-alingsas",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-alingsas",
     title: "Värdera dödsbo Alingsås"
+  },
+  {
+    path: "https://trygga-dodsbon.com/salja-dodsbo-goteborg",
+    title: "Sälja dödsbo Göteborg"
+  },
+  {
+    path: "https://trygga-dodsbon.com",
+    title: "Dödsbo Göteborg"
+  },
+  {
+    path: "https://tantrut-alltjanst.com/",
+    title: "TantRut Alltjänst"
+  },
+  {
+    path: "https://flyttstroms.com/",
+    title: "Flyttströms Flyttfirma"
   }
 ];
 
 export const popularLinks = [
   {
-    path: "vardera-dodsbo-ulricehamn",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-ulricehamn",
     title: "Värdera dödsbo Ulricehamn"
   },
   {
-    path: "hjalp-dodsbo-ulricehamn",
+    path: "https://trygga-dodsbon.com/hjalp-dodsbo-ulricehamn",
     title: "Hjälp dödsbo Ulricehamn"
   },
   {
-    path: "bortforsling-dodsbo-ulricehamn",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-ulricehamn",
     title: "Bortforsling dödsbo Ulricehamn"
   },
   {
-    path: "salja-dodsbo-ulricehamn",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-ulricehamn",
     title: "Sälja dödsbo Ulricehamn"
   },
   {
-    path: "tomma-dodsbo-ulricehamn",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-ulricehamn",
     title: "Tömma dödsbo Ulricehamn"
   },
   {
-    path: "uppkop-dodsbo-ulricehamn",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-ulricehamn",
     title: "Uppköp dödsbo Ulricehamn"
   },
   {
-    path: "uppkop-dodsbo-ale",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-ale",
     title: "Uppköp dödsbo Ale"
   },
   {
-    path: "bortforsling-dodsbo-ale",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-ale",
     title: "Bortforsling dödsbo Ale"
   },
   {
-    path: "salja-dodsbo-ale",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-ale",
     title: "Sälja dödsbo Ale"
   },
   {
-    path: "vardera-dodsbo-ale",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-ale",
     title: "Värdera dödsbo Ale"
   },
   {
-    path: "tomma-dodsbo-molndal",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-molndal",
     title: "Tömma dödsbo Mölndal"
   },
   {
-    path: "bortforsling-dodsbo-molndal",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-molndal",
     title: "Bortforsling dödsbo Mölndal"
   },
   {
-    path: "dodsbo-firma-molndal",
+    path: "https://trygga-dodsbon.com/dodsbo-firma-molndal",
     title: "Dödsbo firma Mölndal"
   },
   {
-    path: "kopa-dodsbo-molndal",
+    path: "https://trygga-dodsbon.com/kopa-dodsbo-molndal",
     title: "Köpa dödsbo Mölndal"
   },
   {
-    path: "roja-dodsbo-molndal",
+    path: "https://trygga-dodsbon.com/roja-dodsbo-molndal",
     title: "Röja dödsbo Mölndal"
   },
   {
-    path: "salja-dodsbo-molndal",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-molndal",
     title: "Sälja dödsbo Mölndal"
   },
   {
-    path: "stada-dodsbo-molndal",
+    path: "https://trygga-dodsbon.com/stada-dodsbo-molndal",
     title: "Städa dödsbo Mölndal"
   },
   {
-    path: "bortforsling-dodsbo-stenungsund",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-stenungsund",
     title: "Bortforsling dödsbo Stenungsund"
   },
   {
-    path: "roja-dodsbo-stenungsund",
+    path: "https://trygga-dodsbon.com/roja-dodsbo-stenungsund",
     title: "Röja dödsbo Stenungsund"
   },
   {
-    path: "kopa-dodsbo-stenungsund",
+    path: "https://trygga-dodsbon.com/kopa-dodsbo-stenungsund",
     title: "Köpa dödsbo Stenungsund"
   },
   {
-    path: "salja-dodsbo-stenungsund",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-stenungsund",
     title: "Sälja dödsbo Stenungsund"
   },
   {
-    path: "tomma-dodsbo-stenungsund",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-stenungsund",
     title: "Tömma dödsbo Stenungsund"
   },
   {
-    path: "vardera-dodsbo-stenungsund",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-stenungsund",
     title: "Värdera dödsbo Stenungsund"
   },
   {
-    path: "tommer-lagenheter-boras",
+    path: "https://trygga-dodsbon.com/tommer-lagenheter-boras",
     title: "Tommer lägenheter Borås"
   },
   {
-    path: "slutstadning-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/slutstadning-dodsbo-boras",
     title: "Slutstädning dödsbo Borås"
   },
   {
-    path: "salja-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-boras",
     title: "Sälja dödsbo Borås"
   },
   {
-    path: "kopa-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/kopa-dodsbo-boras",
     title: "Köpa dödsbo Borås"
   },
   {
-    path: "roja-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/roja-dodsbo-boras",
     title: "Röja dödsbo Borås"
   },
   {
-    path: "bortforsling-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-boras",
     title: "Bortforsling dödsbo Borås"
   },
   {
-    path: "dodsbo-firma-boras",
+    path: "https://trygga-dodsbon.com/dodsbo-firma-boras",
     title: "Dödsbo firma Borås"
   },
   {
-    path: "dodsbo-tomning-boras",
+    path: "https://trygga-dodsbon.com/dodsbo-tomning-boras",
     title: "Dödsbo tömning Borås"
   },
   {
-    path: "tomma-hus-kungsbacka",
+    path: "https://trygga-dodsbon.com/tomma-hus-kungsbacka",
     title: "Tömma hus Kungsbacka"
   },
   {
@@ -326,175 +342,175 @@ export const popularLinks = [
 
 export const fleromrodenLinks = [
   {
-    path: "flyttfirma/flyttfirma-goteborg",
+    path: "https://trygga-dodsbon.com/flyttfirma/flyttfirma-goteborg",
     title: "Flyttfirma Göteborg"
   },
   {
-    path: "flyttfirma/flyttfirma-kungalv",
+    path: "https://trygga-dodsbon.com/flyttfirma/flyttfirma-kungalv",
     title: "Flyttfirma Kungälv"
   },
   {
-    path: "flyttfirma/flyttfirma-boras",
+    path: "https://trygga-dodsbon.com/flyttfirma/flyttfirma-boras",
     title: "Flyttfirma Borås"
   },
   {
-    path: "flyttfirma/billig-flyttfirma-goteborg",
+    path: "https://trygga-dodsbon.com/flyttfirma/billig-flyttfirma-goteborg",
     title: "Billig flyttfirma Göteborg"
   },
   {
-    path: "flyttfirma/flyttfirma-offert",
+    path: "https://trygga-dodsbon.com/flyttfirma/flyttfirma-offert",
     title: "Flyttfirma Offert"
   },
   {
-    path: "tommer-hushall",
+    path: "https://trygga-dodsbon.com/tommer-hushall",
     title: "Tömmer hushåll"
   },
   {
-    path: "tommer-hem",
+    path: "https://trygga-dodsbon.com/tommer-hem",
     title: "Tömmer hem"
   },
   {
-    path: "tommer-hem-goteborg",
+    path: "https://trygga-dodsbon.com/tommer-hem-goteborg",
     title: "Tömmer hem i Göteborg"
   },
   {
-    path: "tommer-hushall-goteborg",
+    path: "https://trygga-dodsbon.com/tommer-hushall-goteborg",
     title: "Tömmer hushåll i Göteborg"
   },
   {
-    path: "vardera-dodsbo-kungalv",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-kungalv",
     title: "Värdera dödsbo Kungälv"
   },
   {
-    path: "hjalp-dodsbo-kungalv",
+    path: "https://trygga-dodsbon.com/hjalp-dodsbo-kungalv",
     title: "Hjälp dödsbo Kungälv"
   },
   {
-    path: "bortforsling-dodsbo-kungalv",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-kungalv",
     title: "Bortforsling dödsbo Kungälv"
   },
   {
-    path: "salja-dodsbo-kungalv",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-kungalv",
     title: "Sälja dödsbo Kungälv"
   },
   {
-    path: "tomma-dodsbo-kungalv",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-kungalv",
     title: "Tömma dödsbo Kungälv"
   },
   {
-    path: "uppkop-dodsbo-kungalv",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-kungalv",
     title: "Uppköp dödsbo Kungälv"
   },
   {
-    path: "uppkop-dodsbo-frolunda",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-frolunda",
     title: "Uppköp dödsbo Frölunda"
   },
   {
-    path: "salja-dodsbo-frolunda",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-frolunda",
     title: "Sälja dödsbo Frölunda"
   },
   {
-    path: "tomma-dodsbo-frolunda",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-frolunda",
     title: "Tömma dödsbo Frölunda"
   },
   {
-    path: "vardera-dodsbo-frolunda",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-frolunda",
     title: "Värdera dödsbo Frölunda"
   },
   {
-    path: "bortforsling-dodsbo-frolunda",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-frolunda",
     title: "Bortforsling dödsbo Frölunda"
   },
   {
-    path: "dodsbo-uppkopare-goteborg",
+    path: "https://trygga-dodsbon.com/dodsbo-uppkopare-goteborg",
     title: "Dödsbo uppköpare Göteborg"
   },
   {
-    path: "tommer-dodsbo",
+    path: "https://trygga-dodsbon.com/tommer-dodsbo",
     title: "Tömmer dödsbo"
   },
   {
-    path: "dodsbofirma",
+    path: "https://trygga-dodsbon.com/dodsbofirma",
     title: "Dödsbo firma"
   },
   {
-    path: "tomma-dodsbo",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo",
     title: "Tömma Dödsbo"
   },
   {
-    path: "tomma-dodsbo-ale",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-ale",
     title: "Tömma dödsbo Ale"
   },
   {
-    path: "dodsbo-uppkopare",
+    path: "https://trygga-dodsbon.com/dodsbo-uppkopare",
     title: "Dödsbo uppköpare"
   },
   {
-    path: "foretag-som-koper-bohag",
+    path: "https://trygga-dodsbon.com/foretag-som-koper-bohag",
     title: "Företag som köper bohag"
   },
   {
-    path: "bortforsling-dodsbo-kungsbacka",
+    path: "https://trygga-dodsbon.com/bortforsling-dodsbo-kungsbacka",
     title: "Bortforsling dödsbo Kungsbacka"
   },
   {
-    path: "dodsbo-firma-kungsbacka",
+    path: "https://trygga-dodsbon.com/dodsbo-firma-kungsbacka",
     title: "Dödsbo firma Kungsbacka"
   },
   {
-    path: "hamtar-dodsbo-kungsbacka",
+    path: "https://trygga-dodsbon.com/hamtar-dodsbo-kungsbacka",
     title: "Hämtar dödsbo Kungsbacka"
   },
   {
-    path: "koper-dodsbo-kungsbacka",
+    path: "https://trygga-dodsbon.com/koper-dodsbo-kungsbacka",
     title: "Köper dödsbo Kungsbacka"
   },
   {
-    path: "salja-dodsbo-kungsbacka",
+    path: "https://trygga-dodsbon.com/salja-dodsbo-kungsbacka",
     title: "Sälja dödsbo Kungsbacka"
   },
   {
-    path: "tomma-dodsbo-kungsbacka",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-kungsbacka",
     title: "Tömma dödsbo Kungsbacka"
   },
   {
-    path: "tommer-dodsbo-kungsbacka",
+    path: "https://trygga-dodsbon.com/tommer-dodsbo-kungsbacka",
     title: "Tömmer dödsbo Kungsbacka"
   },
   {
-    path: "tomma-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/tomma-dodsbo-boras",
     title: "Tömma dödsbo Borås"
   },
   {
-    path: "vardera-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/vardera-dodsbo-boras",
     title: "Värdera dödsbo Borås"
   },
   {
-    path: "uppkop-dodsbo-boras",
+    path: "https://trygga-dodsbon.com/uppkop-dodsbo-boras",
     title: "Uppköp dödsbo Borås"
   },
   {
-    path: "vardering-av-dodsbo",
+    path: "https://trygga-dodsbon.com/vardering-av-dodsbo",
     title: "Värdering av dödsbo"
   },
   {
-    path: "flyttstadning",
+    path: "https://trygga-dodsbon.com/flyttstadning",
     title: "Flyttstädning"
   },
   {
-    path: "flyttstadning-i-goteborg",
+    path: "https://trygga-dodsbon.com/flyttstadning-i-goteborg",
     title: "Flyttstädning i Göteborg"
   },
   {
-    path: "flyttstadning-i-kungalv",
+    path: "https://trygga-dodsbon.com/flyttstadning-i-kungalv",
     title: "Flyttstädning i Kungälv"
   },
   {
-    path: "/bohagsflytt",
+    path: "https://trygga-dodsbon.com//bohagsflytt",
     title: "Bohagsflytt"
   },
   {
-    path: "/vardera-dodsbo",
+    path: "https://trygga-dodsbon.com//vardera-dodsbo",
     title: "Värdera dödsbo"
   }
 ];
