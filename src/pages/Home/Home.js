@@ -139,7 +139,7 @@ const Home = ({ videoText }) => {
           <button
             type="button"
             onClick={() => setModalOpen(!modalOpen)}
-            style={{ display: modalOpen ? "none" : "block",background:'#406893' }}
+            style={{ display: modalOpen ? "none" : "block",background:'#a7c957' }}
           >
             BOKA
           </button>

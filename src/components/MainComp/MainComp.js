@@ -75,9 +75,9 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             style={{
               position: "absolute",
               right: "2%",
-              background: "#0369a1",
+              background: "#a7c957",
               border: "none",
-              color: "white",
+              color: "black",
               height: "2.2rem",
               borderRadius: "3px",
               top: "30%",
@@ -143,7 +143,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
         <div
           style={{
             margin: "1rem 0.5rem",
-            background: "#406893",
+            background: "#a7c957",
             height: "300px",
             justifyContent: "center",
             display: "flex",
@@ -225,7 +225,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
         <div
           style={{
             margin: "1.2rem 0.5rem",
-            background: "#406893",
+            background: "#a7c957",
             color: "white",
             height: "300px",
             justifyContent: "center",

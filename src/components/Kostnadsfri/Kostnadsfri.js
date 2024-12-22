@@ -31,8 +31,8 @@ const Kostnadsfri = ({ vad, text }) => {
   };
 
   return (
-    <div className="kostandri-cont" style={{ background: "#406893" }}>
-      <div style={{ background: "#406893", color: "white" }}>
+    <div className="kostandri-cont" style={{ background: "#a7c957" }}>
+      <div style={{ background: "#a7c957", color: "white" }}>
         <h2>Kostnadsfri {vad}</h2>
         <p style={{ fontSize: "0.9rem", lineHeight: "22px" }}>
           För att vi skall kunna ge dig ett så ärligt pris som möjligt för ditt
@@ -54,7 +54,7 @@ const Kostnadsfri = ({ vad, text }) => {
             onClick={handleSubmit}
             style={{
               background: "white",
-              color: "#406893",
+              color: "#a7c957",
               fontWeight: "bold"
             }}
           >

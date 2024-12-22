@@ -24,7 +24,7 @@ const useStyles = makeStyles({
   btn: {
     width: "100%",
     height: "2rem",
-    background: "#406893",
+    background: "#a7c957",
     fontWeight: "bold",
     color: "white",
     border: "none",

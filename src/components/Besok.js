@@ -6,7 +6,7 @@ const useStyles = makeStyles({
     display: "flex",
     flexDirection: "row",
     padding: "2rem",
-    background: "#406893",
+    background: "#a7c957",
     justifyContent: "space-evenly",
     color: "white",
     alignItems: "center",
