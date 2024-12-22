@@ -6,7 +6,7 @@ const useStyles = makeStyles({
     display: "flex",
     padding: "3rem",
     flexDirection: "row",
-    background: "#a7c957",
+    background: "#406893",
     margin: "0 0.5rem",
     color: "white",
     justifyContent: "space-evenly",
@@ -63,7 +63,7 @@ const Helhetslosningdodsbo = () => {
         <p className={classes.paragraph}>
         Vi erbjuder en komplett helhetslösning för hantering av dödsbo, inklusive professionell service för rensning, försäljning, avveckling av abonnemang och juridisk rådgivning. Vår tjänst gör hela processen smidig och enkel, så att du kan fokusera på det som är viktigt. Kontakta oss idag för en kostnadsfri konsultation angående dödsbo, dödsbo tömning och relaterade tjänster.
 
-Vi förstår att ett dödsbo kan vara mer krävande än vad man först tror. Det finns många krav på sortering, avfallshantering och tömning av dödsbo, vilket gör att det är viktigt att ha rätt hjälp. Vi på Trygga Dödsbon tar hela ansvaret från att sortera{" "}
+Vi förstår att ett dödsbo kan vara mer krävande än vad man först tror. Det finns många krav på sortering, avfallshantering och tömning av dödsbo, vilket gör att det är viktigt att ha rätt hjälp. Vi på Svenska Dödsbo tar hela ansvaret från att sortera{" "}
           <a href="/dodsboet" style={{ color: "white" }} title="dödsboet">
             dödsboet
           </a>

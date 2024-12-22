@@ -10,7 +10,7 @@ const useStyles = makeStyles({
     padding: "2rem",
     color: "white",
     // flexWrap: "wrap",
-    background: "#a7c957"
+    background: "#406893"
     // "@media screen and (max-width: 1000px)": {
     //   flexDirection: "column"
     // }
@@ -30,7 +30,7 @@ const useStyles = makeStyles({
 const Arbetsprocessen = () => {
   const classes = useStyles();
   return (
-    <div style={{ background: "#a7c957", color: "white" }}>
+    <div style={{ background: "#406893", color: "white" }}>
       <h2
         style={{
           color: "white",

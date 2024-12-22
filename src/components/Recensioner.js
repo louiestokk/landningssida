@@ -55,7 +55,7 @@ const Recensioner = () => {
       <section className={classes.contentContainer}>
         <h2 style={{ margin: "1rem 0" }}>Bästa valet för miljön</h2>
         <p style={{ lineHeight: "26px", marginBottom: "1rem" }}>
-          Vi på Trygga Dödsbon är det självklara valet för hantering av bohag och
+          Vi på Svenska Dödsbo är det självklara valet för hantering av bohag och
           dödsbo med över 50 års erfarenhet tillsammans är vi helt övetygade om
           att vi kan erbjuda dig det bästa upplägget för ditt bohag, dödsbo och
           din plånbok. Vårt upptagningsområde sträcker sig över hela Västra
@@ -87,7 +87,7 @@ const Recensioner = () => {
               >
                 {review.comment}
               </span>
-              <div style={{ color: "#a7c957" }}>
+              <div style={{ color: "orange" }}>
                 <Star />
                 <Star />
                 <Star />
