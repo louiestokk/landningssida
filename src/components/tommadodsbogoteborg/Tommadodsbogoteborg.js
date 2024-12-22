@@ -14,6 +14,7 @@ import LottieBooking from "../../LottieAnimation/LottieBooking";
 import booking from "../../utils/animation/booking.json";
 import BookingModal from "../BookingModal";
 const Tommadodsbogoteborg = ({ videoText }) => {
+  console.log('test')
   const [modalOpen, setModalOpen] = useState(false);
   const newsData = useSelector(getNewsData);
   const [content, setContent] = useState({
