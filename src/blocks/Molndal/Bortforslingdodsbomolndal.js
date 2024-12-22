@@ -21,7 +21,7 @@ const Bortforslingdodsbomolndal = ({ videoText }) => {
   const newsData = useSelector(getNewsData);
   const bingNews = useSelector(getBingNews);
   const [content, setContent] = useState({
-    metaTitle: "Effektiv bortforsling av dödsbo i Mölndal - Svenska Dödsbo",
+    metaTitle: "Effektiv bortforsling av dödsbo i Mölndal - Trygga Dödsbon",
     metaContent:
       "Behöver du hjålp med bortforsling av dödsbo i Mölndal? Vi erbjuder en smidig och professionell lösning för att ta hand om bortforsling av dödsbo i Mölndal.",
     query: "Bortforsling dödsbo Mölndal",

@@ -49,7 +49,7 @@ const Besok = () => {
             värdering av dödsbo
           </a>{" "}
           och bohag inom Göteborg, Kungälv, Ale, Stenungsund och Tjörn. Vi har
-          säljkanalerna och egen butiker. Svenska Dödsbo är ett företag som
+          säljkanalerna och egen butiker. Trygga Dödsbon är ett företag som
           tänker miljösmart och på återanvändning. Vi skänker till
           behandlingshem, olika typer av boenden, kyrkor,{" "}
           <strong>hjälporganisationer</strong> och till behövande. Vi har valt

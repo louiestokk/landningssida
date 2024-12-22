@@ -12,14 +12,14 @@ const Footer = () => {
     <>
       <div className="footer" style={{ height: "300px" }}>
         <div>
-          <h3 style={{ marginBottom: "0.7rem" }}>Svenska Dödsbo</h3>
+          <h3 style={{ marginBottom: "0.7rem" }}>Trygga Dödsbon</h3>
           <a href={`tel:${customerData.phone}`} style={{ color: "white" }}>
             <AiTwotonePhone style={{ marginBottom: "0.2rem" }} />
             <p>{customerData.phone}</p>
           </a>
           <a
             href="https://www.facebook.com/profile.php?id=100091387485178"
-            title="Svenska Dödsbo Facebook"
+            title="Trygga Dödsbon Facebook"
             style={{
               display: "flex",
               justifyContent: "center",

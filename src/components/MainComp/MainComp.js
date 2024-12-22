@@ -171,7 +171,7 @@ const MainComp = ({ subTitle5, text2, city, formTitle }) => {
             kan vara en svår uppgift som kräver mycket tid och arbete. Det kan
             vara en känslomässigt påfrestande tid för de efterlevande, och det
             kan vara svårt att veta var man ska börja. Men med rätt hjälp och
-            stöd kan det bli enklare. Hos Svenska Dödsbo är vi experter på hantering av dödsbo och hjälper dig med alla delar av processen, från värdering till tömning och städning.
+            stöd kan det bli enklare. Hos Trygga Dödsbon är vi experter på hantering av dödsbo och hjälper dig med alla delar av processen, från värdering till tömning och städning.
           </p>
         </div>
         <div

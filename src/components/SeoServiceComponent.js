@@ -49,7 +49,7 @@ const services = [
   {
     title: "Tömma hus och lägenheter",
     path: "tomma-bohag",
-    text: "Vi tömmer lägenheteter, hus, dödsbon, förråd och kontor. Svenska Dödsbo tar hand om hela bohag, dödsbo och hushåll, även delar av hem om någon flyttat till ett serviceboende eller liknade. Behöver du hjälp med att tömma ett hus, lägenhet, dödsbo eller kontor i Göteborg? Då är vi på Svenska Dödsbo det självklara valet.",
+    text: "Vi tömmer lägenheteter, hus, dödsbon, förråd och kontor. Trygga Dödsbon tar hand om hela bohag, dödsbo och hushåll, även delar av hem om någon flyttat till ett serviceboende eller liknade. Behöver du hjälp med att tömma ett hus, lägenhet, dödsbo eller kontor i Göteborg? Då är vi på Trygga Dödsbon det självklara valet.",
     icon: <HomeWorkIcon />
   },
   {
@@ -61,7 +61,7 @@ const services = [
   {
     title: "Städning av dödsbo och Bohag",
     path: "/stadning-av-dodsbo",
-    text: "Städning av dödsbo eller bohag som flyttstäd är krävande och tar tid. Så låt oss på Svenska Dödsbo sköta den biten åt dig för en bra peng. Vi erbjuder städgaranti på alla våra städtjänster. Med så många års erfarenhet av olika typer av städningar så är vi det självklara valet för städning av dödsbon, lägenheter, hus och kontor. Vi ger dig prisgaranti.",
+    text: "Städning av dödsbo eller bohag som flyttstäd är krävande och tar tid. Så låt oss på Trygga Dödsbon sköta den biten åt dig för en bra peng. Vi erbjuder städgaranti på alla våra städtjänster. Med så många års erfarenhet av olika typer av städningar så är vi det självklara valet för städning av dödsbon, lägenheter, hus och kontor. Vi ger dig prisgaranti.",
     icon: <DeleteIcon />
   },
   {
@@ -87,7 +87,7 @@ const services = [
     title: "Värdering av dödsbo",
     icon: <FindInPageIcon />,
     path: "vardera-dodsbo",
-    text: "Vi erbjuder kostnadsfri värdering av dödsbo och bohag inom Göteborg, Kungälv, Ale, Stenungsund och Tjörn. Vi har säljkanalerna och egen butiker. Svenska Dödsbo är ett företag som tänker miljösmart och på återanvändning. Vi skänker till behandlingshem, olika typer av boenden, kyrkor, hjälporganisationer och till behövande."
+    text: "Vi erbjuder kostnadsfri värdering av dödsbo och bohag inom Göteborg, Kungälv, Ale, Stenungsund och Tjörn. Vi har säljkanalerna och egen butiker. Trygga Dödsbon är ett företag som tänker miljösmart och på återanvändning. Vi skänker till behandlingshem, olika typer av boenden, kyrkor, hjälporganisationer och till behövande."
   }
 ];
 

@@ -262,7 +262,7 @@ const ForFragan = () => {
                   }}
                 />
                 <label style={{ fontSize: "0.7rem" }} htmlFor="accept">
-                  Jag godkänner att Svenska Dödsbo lagrar mina personuppgifter
+                  Jag godkänner att Trygga Dödsbon lagrar mina personuppgifter
                   för att återkoppla till mig som kund eller användare.
                 </label>
               </div>
