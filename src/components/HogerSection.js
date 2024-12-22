@@ -17,7 +17,7 @@ const HogerSection = ({title,text,imgUrl,service,bannerText,titlesecond,services
      </Box>
        </Box>
        <Box>
-                <img className='senaste-bild' alt={title?title:'sälja dödsbo'} src={imgUrl?imgUrl:'https://images.pexels.com/photos/209274/pexels-photo-209274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'} style={{width:'100%',height:'240px',objectFit:'contain'}}/>
+                <img className='senaste-bild' alt={title?title:'sälja dödsbo'} src={imgUrl?imgUrl:'https://images.pexels.com/photos/1101146/pexels-photo-1101146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'} style={{width:'100%',height:'240px',objectFit:'contain'}}/>
      </Box>
      </div>
      <article style={{height:'30px'}}></article>
@@ -25,7 +25,7 @@ const HogerSection = ({title,text,imgUrl,service,bannerText,titlesecond,services
    <article style={{height:'30px'}}></article>
      <div className="senaste-mainen" id='flytt'>
      <Box>
-                <img alt={titlesecond?titlesecond:'Flyttfirma'} src={imgUrlsec?imgUrlsec:'https://images.pexels.com/photos/271711/pexels-photo-271711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'} style={{width:'100%',height:'240px',objectFit:'contain'}}/>
+                <img alt={titlesecond?titlesecond:'värdera dödsbo'} src={imgUrlsec?imgUrlsec:'https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'} style={{width:'100%',height:'240px',objectFit:'contain'}}/>
      </Box>
      <Box>
      <Box>
